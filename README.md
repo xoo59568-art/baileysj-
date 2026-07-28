@@ -1829,13 +1829,13 @@ console.log('🖼️ Got user profile url', url)
 // --- Update profile picture
 sock.updateProfilePicture(jid, buffer)
 sock.updateProfilePicture(jid, { url })
+
 // --- Update full profile picture
 sock.updateFullProfilePicture(jid, buffer)
-sock.updateFullProfilePicture(jid, { url })
 
 // --- Update full group profile picture
 sock.updateFullGroupProfilePicture(groupJid, buffer)
-sock.updateFullGroupProfilePicture(groupJid, { url })
+
 // --- Remove profile picture
 sock.removeProfilePicture(jid)
 
