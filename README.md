@@ -119,14 +119,10 @@
 - 📄 Via `package.json`
 
 ```json
-# NPM
-"dependencies": {
-   "@itsliaaa/baileys": "latest"
-}
 
 # GitHub
 "dependencies": {
-   "@itsliaaa/baileys": "github:itsliaaa/baileys"
+   "@whiskeysockets/baileys": "github:rabbitxmd/baileys"
 }
 ```
 
