@@ -1,7 +1,7 @@
 {
    "name": "@whiskeysockets/baileys",
-   "version": "0.3.18-final",
-   "description": "Enhanced Baileys v7 with fixes for newsletter media uploads, plus support for interactive messages, albums, and additional message types.",
+   "version": "1.0.0",
+   "description": "Create By Rabbitxmd.",
    "main": "lib/index.js",
    "types": "lib/index.d.ts",
    "type": "module",
