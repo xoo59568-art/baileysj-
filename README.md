@@ -1978,36 +1978,4 @@ sock.ev.on('newsletter-participants.update', (update) => {})
 sock.ev.on('newsletter-settings.update', (update) => {})
 sock.ev.on('settings.update', (update) => {})
 ```
-
-### 🚀 Try the Bot
-
-A fast, lightweight, and modular WhatsApp bot built with [@itsliaaa/baileys](https://www.npmjs.com/package/@itsliaaa/baileys).
-Perfect for managing groups, moderating chats, and adding fun with quiz games and handy tools.
-
-👉🏻 [@itsliaaa/starseed](https://github.com/itsliaaa/starseed#readme)
-
-A lightweight yet powerful Baileys wrapper designed to simplify development while extending support for additional message types and WhatsApp features.
-
-👉🏻 [@itsliaaa/starcore](https://www.npmjs.com/package/@itsliaaa/starcore)
-
-### 📦 Fork Base
-
-This fork is based on [Baileys (GitHub)](https://github.com/WhiskeySockets/Baileys)
-
-### 📣 Credits
-
-This fork uses Protocol Buffer definitions maintained by [WPP Connect](https://github.com/wppconnect-team) via [`wa-proto`](https://github.com/wppconnect-team/wa-proto)
-
-Full credit is attributed to the original maintainers and contributors of Baileys:
-- [purpshell](https://github.com/purpshell)
-- [jlucaso1](https://github.com/jlucaso1)
-- [adiwajshing](https://github.com/adiwajshing)
-
-<!-- Please do not replace my name with yours. It's disrespectful. -->
-
-This fork includes additional enhancements and modifications by [Lia Wynn](https://github.com/itsliaaa)
-
-Special thanks to [itsreimau](https://github.com/itsreimau) for the fix to the `updateBlockStatus` implementation.
-
-> [!CAUTION]
-> ⚠️ **Modification, removal, or misrepresentation of these credits is strictly prohibited. Any redistribution or fork must preserve this section in its original form without exception.**
+#
